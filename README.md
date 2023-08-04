@@ -1,3 +1,3 @@
-#*ZG-HERO PROJECT*
+# *ZG-HERO PROJECT*
 
 Projeto desenvolvido durante o programa Acelera ZG.
